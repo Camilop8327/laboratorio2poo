@@ -4,8 +4,8 @@ class Papeleria:
         self.color=color
         self.genero=genero
 
-librohist=Papeleria("Amarillo", "Historia")
-libroRoman=Papeleria("Rojo", "Romance")
+librohist=Papeleria("LIbro Amarillo", "Historia")
+libroRoman=Papeleria("Libro Rojo", "Romance")
 
 print(type(librohist))
 print(type(libroRoman))
